@@ -6,7 +6,7 @@ import 'package:audioplayers/audioplayers.dart';
 void main() {
   runApp(const MyApp());
 }
-class MyApp extends StatelessWgitidget {
+class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
   // ignore: prefer_function_declarations_over_variables
 
